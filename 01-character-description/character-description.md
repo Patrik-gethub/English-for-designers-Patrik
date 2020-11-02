@@ -1,10 +1,8 @@
 
 ## Character & Description
 
-![A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](T.jpg)
-
-*&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator.
+![This is my letter T](T.jpg)
 
 - - -
 
-**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+**Alt text:** I like letter T because for me it is a symbol of **Alt text:** Balance
