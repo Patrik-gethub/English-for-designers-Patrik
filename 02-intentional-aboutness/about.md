@@ -16,8 +16,9 @@ I chose to do a case study on Blanka Matragi's logo redesign, which is one of ou
 Before:
 
 ![Blanka_old](blanka_old.jpg)
-
 //This old logo has very thick lines and is very old fashioned
+
+
 
 After:
 
@@ -25,4 +26,4 @@ After:
 
 //The final logo is more technical and very minimalistic
 
-(326 characters, pure text) | excuse the formatting and image size
+(326 characters, pure text) | excuse the formatting and image sizes
