@@ -17,12 +17,12 @@ Before:
 
 ![Blanka_old](blanka_old.jpg)
 
-This old logo has very thick lines and is very old fashioned
+//This old logo has very thick lines and is very old fashioned
 
 After:
 
 ![Blanka_new](blanka_new.png)
 
-The final logo is more technical and very minimalistic
+//The final logo is more technical and very minimalistic
 
-(326 characters, pure text)
+(326 characters, pure text) | excuse the formatting and image size
