@@ -18,6 +18,9 @@ Music helps to heal the mind, body and soul; my goal is to help others through m
 ### Case study - Blanka Matragi
 I chose to do a case study on Blanka Matragi's logo redesign, which is one of our projects from our atelier based in Vysoká škola kreativní komunikace.
 
+(background of the brand)
+(background of the old logo)
+
 #### Comparison of "before and after"
 
 Before:
@@ -31,6 +34,5 @@ After:
 
 ![Blanka_new](blanka_new.png)
 
+//progress
 //The final logo is more technical and very minimalistic
-
-(326 characters, pure text) | excuse the formatting and image sizes
