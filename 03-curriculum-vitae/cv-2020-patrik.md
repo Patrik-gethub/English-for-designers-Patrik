@@ -3,9 +3,8 @@
 
 # Curriculum Vitae
 
-- - -
-
 ## Working experience
+- - -
 
 2016 - Furniture company - working with furniture
 
@@ -17,9 +16,8 @@
 
 2020 - (till now) - Shop U Džoudyho
 
-- - -
-
 ## Education
+- - -
 
 2005-2014 - 6th primary school in Mladá Boleslav, Jilemnického 1152
 
@@ -27,24 +25,21 @@
 
 2018 - 2021 - VŠKK (College of creative communication)
 
-- - -
-
 ## Languages
+- - -
 
 Czech - native language
 Engish - intermediate level
 Russian - beginner level
 German - beginner level
 
-- - -
-
 ## Driving license
+- - -
 
 Authorization for level B
 
-- - -
-
 ## Hobbies
+- - -
 
 Travelling
 Musical instruments
