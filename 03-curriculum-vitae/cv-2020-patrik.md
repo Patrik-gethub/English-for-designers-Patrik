@@ -43,8 +43,8 @@ Authorization for level B
 ## Hobbies
 - - -
 
-Travelling
-Musical instruments
-Sound healing
-Martial arts
+Travelling;
+Musical instruments;
+Sound healing;
+Martial arts;
 Meditation
