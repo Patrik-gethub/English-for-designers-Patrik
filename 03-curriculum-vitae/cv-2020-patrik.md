@@ -5,7 +5,7 @@
 
 Patrik Fadrhonc
 
-![Headshot photograph of me.](img/headshot-patrik.jpg)
+![Headshot photograph of me.](headshot-patrik.jpg)
 ## Working experience
 - - -
 
