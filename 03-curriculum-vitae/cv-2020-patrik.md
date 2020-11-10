@@ -3,6 +3,9 @@
 
 # Curriculum Vitae
 
+Patrik Fadrhonc
+
+![Headshot photograph of me.](img/headshot-patrik.jpg)
 ## Working experience
 - - -
 
@@ -46,9 +49,3 @@ Musical instruments
 Sound healing
 Martial arts
 Meditation
-
-
-
-![Headshot photograph of me.](img/cv-2020-headshot-jgagne.png)
-
-Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
