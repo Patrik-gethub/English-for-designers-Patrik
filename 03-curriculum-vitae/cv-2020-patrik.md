@@ -3,9 +3,7 @@
 
 # Curriculum Vitae
 
-# Click here pls
-
-![My CV](cv-2020-patrik.pdf)
+![My CV](cv-2020-patrik-1.pdf)
 
 ## Patrik Fadrhonc
 
