@@ -30,9 +30,12 @@
 ## Languages
 - - -
 
-Czech - native language;
+Czech - native language
+
 Engish - intermediate level;
+
 Russian - beginner level;
+
 German - beginner level
 
 ## Driving license
@@ -44,7 +47,11 @@ Authorization for level B
 - - -
 
 Travelling;
+
 Musical instruments;
+
 Sound healing;
+
 Martial arts;
+
 Meditation
