@@ -12,7 +12,7 @@
 
 2016 - Furniture company - working with furniture
 
-2017 - City MB - graphic design company
+2017 - City MB - graphic design studio
 
 2018-2019 - Tearoom U Džoudyho
 
