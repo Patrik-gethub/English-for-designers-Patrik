@@ -3,9 +3,10 @@
 
 # Curriculum Vitae
 
-Patrik Fadrhonc
+## Patrik Fadrhonc
 
 ![Headshot photograph of me.](headshot-patrik.jpg)
+
 ## Working experience
 - - -
 
