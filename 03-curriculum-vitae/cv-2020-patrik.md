@@ -30,9 +30,9 @@
 ## Languages
 - - -
 
-Czech - native language
-Engish - intermediate level
-Russian - beginner level
+Czech - native language;
+Engish - intermediate level;
+Russian - beginner level;
 German - beginner level
 
 ## Driving license
