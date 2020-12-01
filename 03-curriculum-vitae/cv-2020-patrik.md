@@ -8,8 +8,6 @@
 ## Working experience
 - - -
 
-2016 - Furniture company - working with furniture
-
 2017 - City MB - graphic design studio
 
 2018-2019 - Tearoom U Džoudyho
@@ -21,7 +19,7 @@
 ## Education
 - - -
 
-2005-2014 - 6th primary school in Mladá Boleslav, Jilemnického 1152
+2005-2014 - 6th primary school
 
 2014-2018 - High school of IT computing
 
