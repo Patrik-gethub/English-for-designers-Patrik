@@ -16,3 +16,5 @@ I consider my writing style as very honest and deep.
 1. Be helpful
 2. Be honest
 3. Be friendly
+
+/formal-imformal
