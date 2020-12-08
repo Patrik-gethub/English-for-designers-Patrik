@@ -1,6 +1,8 @@
 ## Writing Style
 
-I consider my writing style as honest and sometimes very deep. Our writing style is a reflection of ourselves.
+I think that our writing style is a reflection of ourselves.
+
+I consider my writing style as very honest and deep.
 
 ## Voice
 
