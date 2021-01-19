@@ -3,7 +3,7 @@
 - - -
 
 ### About me - short version
-(My name is Patrik) and I like to express myself through digital design, art, and music.
+I am Patrik and I love to share my inner world through sound.
 
 - - -
 
