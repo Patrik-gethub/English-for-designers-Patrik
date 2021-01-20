@@ -8,5 +8,7 @@ Our school project with 3 more colleagues was to make CD covers for Gregory Port
 
 Here are some of the CD covers we created:
 
+![Wolfcry](Artboard 1.jpg)
 
+This album is called Wolfcry
 
