@@ -1,6 +1,6 @@
 ## Copying
 
-![VI]()
+![VI](04-voice-tone/04-voice-tone-chapter-6.png)
 
 ## Writing Style
 
