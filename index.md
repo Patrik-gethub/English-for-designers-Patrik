@@ -14,6 +14,6 @@
 
 - 04-voice-tone:
 
-- 05-presentation:
+- 05-presentation: [Click here](05-final-presentation/Finals.pdf)
 
 - Five things our lessons taught me:
