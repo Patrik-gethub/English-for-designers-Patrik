@@ -6,6 +6,7 @@ Gregory Porter is an American singer, songwriter and actor. He is recognizable f
 
 Our school project with 3 more colleagues was to make CD covers for Gregory Porter. It was a great experience.
 
+Each CD cover has a front and back side + one "quote page" which contains a quote that represents his album.
 Here are some of the CD covers we created:
 
 ## The first album is called Wolfcry: ##
@@ -43,3 +44,5 @@ Here are some of the CD covers we created:
 ![Wolfcry](Artboard16.png)
 ![Wolfcry](Artboard17.png)
 ![Wolfcry](Artboard18.png)
+
+Overall the proccess of making these CD covers was fun and enjoyable.
