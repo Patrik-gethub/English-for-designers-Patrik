@@ -1,8 +1,10 @@
+## Copying
+
+![VI]()
+
 ## Writing Style
 
-I think that our writing style is a reflection of ourselves.
-
-I consider my writing style as very honest and deep.
+Writing style is very personal and every single person has it's own unique style. That's what is so great about it. Through writing we can freely express our inner feelings, let go of limitations and be ourselves 100%.
 
 ## Voice
 
@@ -17,4 +19,4 @@ I consider my writing style as very honest and deep.
 2. Be honest
 3. Be friendly
 
-/formal-imformal
+I like to use formal tone
