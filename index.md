@@ -16,4 +16,4 @@
 
 - 05-presentation: [Click here](05-final-presentation/Finals.pdf)
 
-- 06-semestr-takeaways: [Click here](06-semestr-takeaways/5-things-i-learnt)
+- 06-semestr-takeaways: [Click here](06-semestr-takeaways/5-things-i-learnt.md)
