@@ -16,3 +16,4 @@
 
 - 05-presentation:
 
+- Five things our lessons taught me:
