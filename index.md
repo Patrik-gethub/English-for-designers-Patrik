@@ -1,8 +1,8 @@
 # My menu
 
-- [About](02-intentional-aboutness/about.md)
+- [About me](02-intentional-aboutness/about.md)
 
-- [CV](03-curriculum-vitae/cv-2020-patrik.md)
+- [Curriculum vitae](03-curriculum-vitae/cv-2020-patrik.md)
 
 ## Work
 
