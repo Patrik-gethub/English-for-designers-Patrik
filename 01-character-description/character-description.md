@@ -5,4 +5,4 @@
 
 - - -
 
-I like letter T because for me it is a symbol of **balance**. The letter T is made out of two musical inscruments: **guitar** and **didgeridoo**. Those two instruments are very meaningful to me.
+My favourite letter is T, because it is a symbol of **balance** and is very symetrical. On the picture is a photo of **guitar** and **didgeridoo** laying on the forming and forming the letter T.
