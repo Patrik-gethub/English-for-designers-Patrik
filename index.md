@@ -16,4 +16,4 @@
 
 - [05-presentation](05-final-presentation/presentation.md)
 
-- [06-semestr-takeaways:](06-semestr-takeaways/5-things-i-learnt.md)
+- [06-semester-takeaways](06-semester-takeaways/5-things-i-learned.md)
