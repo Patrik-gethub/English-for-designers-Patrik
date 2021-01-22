@@ -11,6 +11,8 @@ Here are some of the CD covers we created:
 
 ## The first album is called Wolfcry: ##
 
+<img src="./case-study/Artboard1.png" alt="Artboard1.png" width="500"/>
+
 <img alt=“Wolfcry” src=“Artboard1.png” width=“420”>
 <img alt=“Wolfcry” src=“Artboard2.png” width=“420”>
 <img alt=“Wolfcry” src=“Artboard3.png” width=“420”>
