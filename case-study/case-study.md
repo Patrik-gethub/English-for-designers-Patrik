@@ -11,9 +11,9 @@ Here are some of the CD covers we created:
 
 ## The first album is called Wolfcry: ##
 
-![Wolfcry](Artboard1.png)
-![Wolfcry](Artboard2.png)
-![Wolfcry](Artboard3.png)
+<img alt=“Wolfcry” src=“Artboard1.png” width=“420”>
+<img alt=“Wolfcry” src=“Artboard2.png” width=“420”>
+<img alt=“Wolfcry” src=“Artboard3.png” width=“420”>
 
 ## Second album is called Holding on: ##
 
