@@ -1,4 +1,4 @@
-# My menu
+# Patrik's menu
 
 - [About me](02-intentional-aboutness/about.md)
 
