@@ -1,1 +1,1 @@
-[Final presentation](05-final-presentation/Instruments.pdf)
+[Final presentation](./Instruments.pdf)
