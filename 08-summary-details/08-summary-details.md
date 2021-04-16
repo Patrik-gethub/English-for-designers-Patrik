@@ -30,7 +30,8 @@ One of the results which I have been working on is my own website: www.patrikzen
 
 *Logo for my candles*
 
-![Logo-final](https://user-images.githubusercontent.com/72804835/115010540-d4b38e00-9ead-11eb-823b-bc5a22628da0.jpg)
+![Logo-jpg](https://user-images.githubusercontent.com/72804835/115010697-fd3b8800-9ead-11eb-93ba-27ad5d6be0cf.jpg)
+
 
 I also finished marketing mix 4P and the product (candles) officially started it's sale
 
