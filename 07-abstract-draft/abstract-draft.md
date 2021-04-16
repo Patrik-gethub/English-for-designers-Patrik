@@ -1,11 +1,12 @@
+*Proccess of creating brand PatrikZen*
+
+![Logo-jpeg](https://user-images.githubusercontent.com/72804835/115007233-0f1b2c00-9eaa-11eb-9cbb-1ba787579563.jpg)
+
+
 **Abstract**
 
-For my bachelor's work I chose to create my own little brand named PatrikZen along with promotional materials, such as bussiness cards, logo, instagram profile, web, ..
+For my bachelor's work I chose to create my own brand named PatrikZen along with promotional materials, such as bussiness cards, logo, instagram profile, web, etc.
+Through this brand, I will offer at least two services. The first one is sound healing. The second one is making candles.
 
-The meaning of creating my own brand is to start fulfilling my dream and help people through sound healing and other services.
 
-In the theoretial part I write about the theory of creating a successful brand that works.
 
-In the practical part I write about creating my own little brand, under which I will do services for people and more.
-
-Keywords: Brand, Logotype, Promotional materials, Brand-promotion
