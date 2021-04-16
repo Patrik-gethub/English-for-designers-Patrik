@@ -1,4 +1,4 @@
-*Proccess of creating brand PatrikZen*
+***Proccess of creating brand PatrikZen***
 
 ![Logo-jpeg](https://user-images.githubusercontent.com/72804835/115007233-0f1b2c00-9eaa-11eb-9cbb-1ba787579563.jpg)
 
