@@ -12,9 +12,28 @@ One of the problems was that during the thesis work my thesis supervisor got pre
 
 This thesis topic is a huge opportunity to grow on many levels - we can find out what we really want to do in life and what we want out of it.
 
-## Abstract
+## Thesis (Absctract)
 
 For my bachelor's work I chose to create a personal brand named PatrikZen along with promotional materials, such as bussiness cards, logo, instagram profile, web, etc.
 Through this brand, I will offer at least two services. The first one is sound healing. The second one is making candles.
+
+## Approach
+
+
+In the theoretical part I write about brand building and also about theory of making a good logo.
+
+In the practical part I create the brand PatrikZen along with promotional materaials.
+
+## Results/Outcomes/Analysis
+
+One of the results which I have been working on is my own website: www.patrikzen.com
+
+I also finished marketing mix 4P and the product (candles) officially started it's sale
+
+### Gallery of PRODUCTS (candles)
+
+![Ocistne-dohromady](https://user-images.githubusercontent.com/72804835/115010339-961dd380-9ead-11eb-910d-7ad15c3ca942.JPG)
+![cakrovky](https://user-images.githubusercontent.com/72804835/115010360-9cac4b00-9ead-11eb-9ecb-ae41b2391a15.JPG)
+![archandelske](https://user-images.githubusercontent.com/72804835/115010376-a2099580-9ead-11eb-9f68-2aa271c0ce75.JPG)
 
 
