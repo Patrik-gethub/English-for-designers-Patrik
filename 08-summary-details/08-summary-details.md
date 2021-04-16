@@ -28,9 +28,13 @@ In the practical part I create the brand PatrikZen along with promotional matera
 
 One of the results which I have been working on is my own website: www.patrikzen.com
 
-*Logo for my candles*
+*Logo for my candles:*
 
 ![Logo-jpg](https://user-images.githubusercontent.com/72804835/115010697-fd3b8800-9ead-11eb-93ba-27ad5d6be0cf.jpg)
+
+*Inspiration of creating this logo is this picture which I placed on my Instagram back in 2017:*
+
+![Elementals](https://user-images.githubusercontent.com/72804835/115010794-1f350a80-9eae-11eb-8269-084b19fb7215.jpg)
 
 
 I also finished marketing mix 4P and the product (candles) officially started it's sale
