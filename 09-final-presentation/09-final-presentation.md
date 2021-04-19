@@ -11,9 +11,11 @@ The name consists of two words - Patrik & Zen.
  This is the final result:
  
  *Logo for candles*
+ 
  ![Logo-jpg](https://user-images.githubusercontent.com/72804835/115010697-fd3b8800-9ead-11eb-93ba-27ad5d6be0cf.jpg)
  
  *How candles look*
+ 
 ![Ocistne-dohromady](https://user-images.githubusercontent.com/72804835/115010339-961dd380-9ead-11eb-910d-7ad15c3ca942.JPG)
 ![cakrovky](https://user-images.githubusercontent.com/72804835/115010360-9cac4b00-9ead-11eb-9ecb-ae41b2391a15.JPG)
 ![archandelske](https://user-images.githubusercontent.com/72804835/115010376-a2099580-9ead-11eb-9f68-2aa271c0ce75.JPG)
