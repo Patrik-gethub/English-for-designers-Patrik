@@ -3,7 +3,7 @@
 The original topic which I chose for my final thesis was Synesthesia a.k.a. the phenomenon of "hearing colors" etc. Soon aftr, I changed the topic because of my Corona virus and distance between my supervisor (who lives in Liberec). My new thesis topic is Process of creating a personal brand - named PatrikZen. It's not really a win win situation, because my new supervisor (female) got pregnant in January, so it was a real test of handling it by myself. However, thanks to my girlfriend, I had the motivation to continue and create the brand. It went from school project to a real project, which is now official.
 
 The name consists of two words - Patrik & Zen.
-  Patrik is my name,
+  Patrik is my name;
   Zen represents my path.
  
  My motto is "Find a way back to yourself".
