@@ -8,6 +8,13 @@ The name consists of two words - Patrik & Zen.
  
  My motto is "Find a way back to yourself".
  
+ *My moodboard*
+ 
+ ![circle](https://user-images.githubusercontent.com/72804835/115269680-d72b1780-a13b-11eb-95c9-406a49fee271.png)
+ 
+ Circle has a very deep meaning to be. It represents infinity - which could translate to the guitar playing and other instruments, where time does not exist - only here and now.
+
+ 
  This is the final result:
  
  Website: www.patrikzen.com
