@@ -10,6 +10,8 @@ The name consists of two words - Patrik & Zen.
  
  This is the final result:
  
+ Website: www.patrikzen.com
+ 
  *Logo for candles*
  
  ![Logo-jpg](https://user-images.githubusercontent.com/72804835/115010697-fd3b8800-9ead-11eb-93ba-27ad5d6be0cf.jpg)
