@@ -12,6 +12,8 @@ The name consists of two words - Patrik & Zen.
  
  ![circle](https://user-images.githubusercontent.com/72804835/115269680-d72b1780-a13b-11eb-95c9-406a49fee271.png)
  
+ ![Logo-jpeg](https://user-images.githubusercontent.com/72804835/115007233-0f1b2c00-9eaa-11eb-9cbb-1ba787579563.jpg)
+ 
  Circle has a very deep meaning to be. It represents infinity - which could translate to the guitar playing and other instruments, where time does not exist - only here and now.
 
  
