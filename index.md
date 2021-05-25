@@ -17,3 +17,11 @@
 - [05-presentation](05-final-presentation/presentation.md)
 
 - [06-semester-takeaways](06-semester-takeaways/5-things-i-learned.md)
+
+-  [06-semester-takeaways](06-clarity-first/clarity-first.md)
+
+-  [06-semester-takeaways](07-abstract-draft/abstract-draft.md)
+
+-  [06-semester-takeaways](08-sumary-details/summary-details.md)
+
+-  [06-semester-takeaways](09-final-presentation/final-presentation.md)
