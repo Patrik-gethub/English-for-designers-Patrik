@@ -22,6 +22,6 @@
 
 -  [07-abstract-draft](07-abstract-draft/abstract-draft.md)
 
--  [08-summary-details](08-sumary-details/summary-details.md)
+-  [08-summary-details](08-sumary-details/08-summary-details.md)
 
--  [09-final-presentation](09-final-presentation/final-presentation.md)
+-  [09-final-presentation](09-final-presentation/09-final-presentation.md)
